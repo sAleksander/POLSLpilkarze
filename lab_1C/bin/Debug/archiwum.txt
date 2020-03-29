@@ -1,0 +1,4 @@
+Zings|Amadeusz|49|66
+TEST|TESTadrian|25|75
+Kowal|Adam|32|69
+był błędem|komunizm|29|72
